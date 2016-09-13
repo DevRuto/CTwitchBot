@@ -1,3 +1,5 @@
+# RECREATING @ https://github.com/nullruto/CTwitchBotV2
+
 # CTwitchBot
 Twitch IRC Bot written in C
 
